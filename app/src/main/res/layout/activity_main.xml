@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="4"
+        android:orientation="horizontal"
+        android:rowCount="4"
+        tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/tile_1a"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_1b"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_1c"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_1d"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_2a"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_2b"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_2c"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_2d"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_3a"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_3b"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_3c"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_3d"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_4a"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_4b"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_4c"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/tile_4d"
+            style="@style/ButtonStyle" />
+    </GridLayout>
+</layout>
